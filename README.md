@@ -101,7 +101,7 @@ plt.show()
 
 
     
-![png](output_7_0.png)
+<img src=https://github.com/leegusckd/Used-Car-Analysis/blob/main/Images/Scatter%20Plot.png>
     
 
 
