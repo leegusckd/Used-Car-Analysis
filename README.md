@@ -334,7 +334,7 @@ plt.show()
 
 
     
-![png](output_22_0.png)
+<img src=https://github.com/leegusckd/Used-Car-Analysis/blob/main/Images/Residual%20Plot.png>
     
 
 
@@ -374,7 +374,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+<img src=https://github.com/leegusckd/Used-Car-Analysis/blob/main/Images/Residual%20Plot%20Variations.png>
     
 
 
